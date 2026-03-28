@@ -1,6 +1,6 @@
 # 📚 Library CLI - ReadMe
 
-##🐧 Overview
+## 🐧 Overview
 > This is a lightweight Command Line Interface (CLI) built to demonstrate Java's memory management and modern data structures. It transitions concepts from C (manual management) to Java (automatic management).
 
 ## 🛠 Architecture
